@@ -195,5 +195,7 @@ pip install --upgrade streamlit yfinance pandas numpy matplotlib
 
 <img width="935" height="506" alt="Screenshot 2025-12-04 124034" src="https://github.com/user-attachments/assets/9792fb8e-9ddb-4404-98ee-db7404f537ba" />
 
-
 **The website link is http://localhost:8505**
+
+**The above Webpage in PDF form -** [Web.pdf](https://github.com/user-attachments/files/23925827/Web.pdf)
+ 
